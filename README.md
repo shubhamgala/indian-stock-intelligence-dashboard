@@ -5,12 +5,18 @@
 ### Interactive Quantitative Financial Intelligence Platform Built with Python, Streamlit & Plotly
 *Real-time NSE market analytics, Base-100 benchmark modeling vs. NIFTY 50 (`^NSEI`), CAPM risk-return metrics, and portfolio diversification heatmaps.*
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://indian-stock-intelligence.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-red?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive-blueviolet?style=for-the-badge&logo=plotly)](https://plotly.com/)
 [![Pandas](https://img.shields.io/badge/Pandas-Analytics-black?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 [![yfinance](https://img.shields.io/badge/yfinance-NSE%20India-green?style=for-the-badge)](https://pypi.org/project/yfinance/)
 [![NSE](https://img.shields.io/badge/Exchange-NSE%20India%20(.NS)-orange?style=for-the-badge)](https://www.nseindia.com/)
+
+---
+
+> 🌐 **Try the Live Web App:** [indian-stock-intelligence.streamlit.app](https://indian-stock-intelligence.streamlit.app)  
+> *(No installation required — live interactive terminal directly in your browser)*
 
 </div>
 
