@@ -191,5 +191,3 @@ Open your browser and navigate to: **`http://localhost:8501`**
 
 ---
 
-## 📄 License
-This project is open-source and licensed under the [MIT License](LICENSE).
