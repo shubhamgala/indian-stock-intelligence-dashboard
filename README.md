@@ -138,7 +138,7 @@ $$\beta = \frac{\text{Cov}(R_{\text{stock}}, R_{\text{Nifty}})}{\text{Var}(R_{\t
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/prathmesh2507/global-stock-intelligence-dashboard.git "Indian Stock Intelligence Dashboard"
+git clone https://github.com/shubhamgala/indian-stock-intelligence-dashboard.git "Indian Stock Intelligence Dashboard"
 cd "Indian Stock Intelligence Dashboard"
 ```
 
